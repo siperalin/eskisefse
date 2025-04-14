@@ -1,0 +1,2 @@
+# newisvecbot
+Yenı isvec bot
